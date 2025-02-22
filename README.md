@@ -1,4 +1,4 @@
-# Batch Processing Pipeline for Ride-Sharing Analytics
+# Batch Processing Pipeline for Ride-Sharing Analytics with Apache Spark
 
 ## Project Overview
 This capstone project aims to build an end-to-end batch processing pipeline that ingests, transforms, and analyzes ride-sharing data using Apache Spark, Python, and SQL. 
